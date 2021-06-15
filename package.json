@@ -1,0 +1,10 @@
+{
+  "name": "fire-minter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "amaterasu",
+  "scripts": {
+    "prettier:sol": "prettier --write 'contracts/**/*.sol'"
+  }
+}
